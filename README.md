@@ -12,5 +12,5 @@ Manejado directamente con conda, es el archivo "environment.yaml", principales p
 * numpy
 * matplotlib
 * scikit-learn
-
+* tensorflow
 
