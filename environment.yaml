@@ -199,6 +199,7 @@ dependencies:
   - rsa=4.7.2=pyhd3eb1b0_1
   - scikit-learn=1.5.1=py311ha02d727_0
   - scipy=1.12.0=py311h08b1b3b_0
+  - seaborn=0.13.2=py311h06a4308_0
   - send2trash=1.8.2=py311h06a4308_0
   - setuptools=72.1.0=py311h06a4308_0
   - sip=6.7.12=py311h6a678d5_0

@@ -10,7 +10,7 @@ Manejado directamente con conda, es el archivo "environment.yaml", principales p
 * jupyterlab
 * pandas
 * numpy
-* matplotlib
+* matplotlib, seaborn
 * scikit-learn
 * tensorflow
 
