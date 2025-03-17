@@ -14,3 +14,4 @@ Manejado directamente con conda, es el archivo "environment.yaml", principales p
 * scikit-learn
 * tensorflow
 * statsmodels
+
